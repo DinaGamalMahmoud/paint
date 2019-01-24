@@ -1,0 +1,11 @@
+
+project.Paint$Rect@6a33d268
+project.Paint$Oval@16579ca1
+project.Paint$Oval@5291bd6
+project.Paint$Oval@76938ba3
+project.Paint$Line@2c7b78b
+project.Paint$Oval@28df81e6
+project.Paint$Rect@6565d880
+project.Paint$Oval@f41891c
+project.Paint$Delete@30850c90
+project.Paint$Delete@64816bd7
